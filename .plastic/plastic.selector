@@ -1,0 +1,4 @@
+repository "TicTacToe@Denki_Projects@cloud"
+  path "/"
+    br "/main"
+    co "/main"
